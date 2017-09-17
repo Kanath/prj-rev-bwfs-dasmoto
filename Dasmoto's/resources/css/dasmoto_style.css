@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	background-image: url(../images/pattern.jpeg);
+}
+h2 {
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+span {
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-weight: bold;
+	color: blue;
+}
+#br {
+	background-color: mediumspringgreen;
+}
+#fr {
+	background-color: lightcoral;
+}
+#pa{
+	background-color: skyblue;
+}
